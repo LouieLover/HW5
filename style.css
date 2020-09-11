@@ -63,21 +63,18 @@ textarea {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-color: #06AED5;
-    color: white;
+    padding: 20px;
+    background-color: lightgreen;
 }
 
 .saveBtn i:hover {
     font-size: 20px;
     transition: all .3s ease-in-out;
+    color: white;
 }
 
 .time {
     padding: 10px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #000000;
-}
-
-.fa-fa-lock {
-    padding: 10px;
 }
